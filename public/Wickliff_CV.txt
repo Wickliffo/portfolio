@@ -1,0 +1,32 @@
+Wickliff Orina
+Data Engineer | Data Analyst | Junior ML Engineer
+📍 Kenya | ✉️ orinawicklff@gmail.com | 📞 +254110062168 | 🔗 github.com/Wickliffo
+
+PROFESSIONAL SUMMARY
+Sharp-minded and results-oriented IT professional specializing in building scalable data pipelines and machine learning models. Expert in SQL and Python with a focus on ETL/ELT workflows, data warehousing, and predictive analytics. Passionate about transforming raw data into actionable business intelligence.
+
+TECHNICAL SKILLS
+
+Data Engineering: ETL/ELT Pipelines, Data Modeling, Data Warehousing, dbt, Apache Airflow (Beginner).
+
+Data Analysis: Python (Pandas, NumPy, Scipy), SQL (PostgreSQL, MySQL), Power BI, Tableau.
+
+Machine Learning: Scikit-learn, XGBoost, Random Forest, Supervised/Unsupervised Learning.
+
+Developer Tools: FastAPI, Streamlit, Git, Docker, Linux, MongoDB.
+
+KEY PROJECTS
+
+Kenyan Market Analytics Pipeline: Built an end-to-end ETL pipeline to aggregate retail sales data. Impact: Reduced reporting latency by 35%.
+
+IoT Analytics Dashboard: Developed a real-time monitoring system using FastAPI and Streamlit. Impact: Improved device uptime tracking efficiency.
+
+ML Predictive Engine: Implemented XGBoost models for customer churn prediction. Impact: Achieved 88% accuracy in pilot testing.
+
+CERTIFICATIONS
+
+DataCamp: SQL Associate, Data Analyst Professional, ETL/ELT in Python, Data Warehousing.
+
+Cisco: Data Essentials.
+
+ML Specific: Advanced Supervised/Unsupervised Learning
