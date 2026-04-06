@@ -3,30 +3,37 @@ Data Engineer | Data Analyst | Junior ML Engineer
 📍 Kenya | ✉️ orinawicklff@gmail.com | 📞 +254110062168 | 🔗 github.com/Wickliffo
 
 PROFESSIONAL SUMMARY
-Sharp-minded and results-oriented IT professional specializing in building scalable data pipelines and machine learning models. Expert in SQL and Python with a focus on ETL/ELT workflows, data warehousing, and predictive analytics. Passionate about transforming raw data into actionable business intelligence.
+Data Engineer & Analyst with a systematic approach to engineering value from raw information. Expert in building ETL/ELT pipelines, star schemas, and predictive ML models. Proven track record in reducing data latency and improving reporting accuracy through Python, SQL, and dbt.
 
 TECHNICAL SKILLS
-
-Data Engineering: ETL/ELT Pipelines, Data Modeling, Data Warehousing, dbt, Apache Airflow (Beginner).
-
+Data Engineering: ETL/ELT Pipelines, Data Modeling, Data Warehousing, dbt, Apache Airflow.
 Data Analysis: Python (Pandas, NumPy, Scipy), SQL (PostgreSQL, MySQL), Power BI, Tableau.
-
 Machine Learning: Scikit-learn, XGBoost, Random Forest, Supervised/Unsupervised Learning.
-
 Developer Tools: FastAPI, Streamlit, Git, Docker, Linux, MongoDB.
 
 KEY PROJECTS
 
-Kenyan Market Analytics Pipeline: Built an end-to-end ETL pipeline to aggregate retail sales data. Impact: Reduced reporting latency by 35%.
+Sowing Success (ML)
+Problem: Agricultural yield unpredictability due to fluctuating environmental factors.
+Solution: Developed a predictive model using Scikit-learn and XGBoost to forecast crop success based on soil and weather data.
+Impact: Achieved 85% prediction accuracy, enabling farmers to make data-driven planting decisions.
 
-IoT Analytics Dashboard: Developed a real-time monitoring system using FastAPI and Streamlit. Impact: Improved device uptime tracking efficiency.
+Kenyan Market Analytics Pipeline (DE)
+Problem: Fragmented retail data across regions in Kenya, leading to delayed business insights.
+Solution: Built an end-to-end ETL pipeline using Python and Airflow to aggregate and clean market data into a PostgreSQL warehouse.
+Impact: Reduced reporting latency by 35% and improved data accessibility for stakeholders.
 
-ML Predictive Engine: Implemented XGBoost models for customer churn prediction. Impact: Achieved 88% accuracy in pilot testing.
+RetailFlux (DE)
+Problem: Real-time inventory tracking challenges in high-volume retail environments.
+Solution: Engineered a streaming data pipeline with FastAPI and MongoDB to track stock movements in real-time.
+Impact: Improved inventory accuracy by 20% and reduced stockouts through automated alerting.
+
+Swiggy SQL Warehouse (DA)
+Problem: Massive volumes of unstructured delivery data making it difficult to analyze driver performance.
+Solution: Designed a star schema data model and performed complex SQL analysis to identify delivery bottlenecks.
+Impact: Identified key inefficiencies, leading to a 12% improvement in average delivery times.
 
 CERTIFICATIONS
-
-DataCamp: SQL Associate, Data Analyst Professional, ETL/ELT in Python, Data Warehousing.
-
 Cisco: Data Essentials.
-
-ML Specific: Advanced Supervised/Unsupervised Learning
+DataCamp: SQL Associate Professional, Data Analyst Professional, ETL/ELT in Python, Data Warehousing Professional.
+ML Specific: Advanced Supervised/Unsupervised Learning.
